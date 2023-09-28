@@ -13,13 +13,29 @@ Based on Starbucks app
 
 
 
-## 🛠 Deployment
-
-Before you try to deploy run
+## 🛠 Running the project
 
 
+Clone this repository :
 
-To deploy this project run
+```
+
+```
+
+Install packages :
+
+```
+npm install
+```
+
+When installation is complete, run with version of your choice :
+
+```bash
+react-native run-ios
+# or
+react-native run-android
+```
+
 
 
 
